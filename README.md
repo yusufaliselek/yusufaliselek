@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center">I’m interested in webdevelopment and mobile application developments</h3>
+<h3 align="center">I’m interested in web development and mobile application developments</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufaliselek&label=Profile%20views&color=452dbe&style=flat" alt="yusufaliselek" /> </p>
 
