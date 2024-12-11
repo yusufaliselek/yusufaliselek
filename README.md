@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 
 <p align="center">
-  A web and mobile application developer who is passionate about technology and eager to continuously learn and grow.
+  A web application developer who is passionate about technology and eager to continuously learn and grow.
 </p>
 
 ---
